@@ -76,16 +76,6 @@ The dataset contains **1470 employee records** including attributes such as:
 
 These insights demonstrate how analytics can support HR teams in developing better retention strategies and workforce planning.
 
----
-
-## Project Structure
-
-hr-attrition-dashboard
-│
-├── HR_Attrition_Dashboard.pbix
-├── hr_dataset.csv
-├── dashboard_screenshot.png
-└── README.md
 
 ---
 
