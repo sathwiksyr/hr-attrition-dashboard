@@ -91,5 +91,4 @@ Future improvements could include:
 
 
 ## Conclusion
-This project demonstrates how data analytics and visualization tools can help organizations understand workforce patterns and employee attrition trends, enabling data-driven decision-making for HR management.# hr-attrition-dashboard
-HR Employee Attrition Analytics Dashboard using Power BI
+This project demonstrates how data analytics and visualization tools can help organizations understand workforce patterns and employee attrition trends, enabling data-driven decision-making for HR management.
